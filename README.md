@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/VitorBassDev/vitorguedes.io/blob/master/portifolio_readme_images/01readme_images.png">
+<img align="right" width="400" height="400" src="https://github.com/VitorBassDev/vitorguedes.io/blob/master/portifolio_readme_images/logoPortifolio.png">
  
 # Welcome!
  
