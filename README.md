@@ -22,7 +22,7 @@ ____
 
 <span 
   align="right">
-[![card](https://github-readme-stats.vercel.app/api?username=VitorBassDev&theme=default)](https://github.com/VitorBassDev/)
+[![card](https://github-readme-stats.vercel.app/api?username=VitorBassDev&theme=merko)](https://github.com/VitorBassDev/)
 <span>
 
 
