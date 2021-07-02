@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vítor Guedes</h1>
 <h3 align="center">Novice Developer, passionate about technology</h3>
 
-- 🔭 I’m currently working **Brazilian Army**
+- 🔭 I’m currently working **Brazilian Army and aspiring in development**
 
-- 🌱 I’m currently learning **Back end programming languages**
+- 🌱 I’m currently learning **FullStack end programming languages**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VitorBassDev](https://github.com/VitorBassDev)
 
-- 💬 Ask me about **NodeJs, TypeScript, React**
+- 💬 Ask me about **NodeJs, TypeScript, React, SQL**
 
 - 📫 How to reach me **vittorbassdev@gmail.com**
 
